@@ -1,9 +1,9 @@
 body {
   margin: 60px auto;
   width: 70%;
+  font-family: 'Lato', 'Helvetica', 'Arial', 'Sans-Serif';
 }
 nav ul, footer ul {
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
   padding: 0px;
   list-style: none;
   font-weight: bold;
@@ -20,8 +20,7 @@ a:hover {
   text-decoration: underline;
 }
 h1 {
-  font-size: 3em;
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  font-size: 2.5em;
 }
 p, div.blurb ul {
   font-size: 1.5em;
@@ -35,4 +34,8 @@ footer {
 .pull-right {
   float: right;
   margin: 0 0 10px 10px;
+}
+.pull-left {
+  float: left;
+  margin: 10px 10px 0 0;
 }
