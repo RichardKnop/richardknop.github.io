@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/richardknop
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://richardknop.com
+  * I am richardknop (https://keybase.io/richardknop) on keybase.
+  * I have a public key with fingerprint 8E8A 9426 9E82 5411 752E  ECA1 4631 66AC D49B 535C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010156fecb14035f398b2fe329ee01cf8ce56a383a60d26adad4d436f03b0162fc4f0a",
+      "fingerprint": "8e8a94269e825411752eeca1463166acd49b535c",
+      "host": "keybase.io",
+      "key_id": "463166acd49b535c",
+      "kid": "010156fecb14035f398b2fe329ee01cf8ce56a383a60d26adad4d436f03b0162fc4f0a",
+      "uid": "d4989c2e8c0b801daf5922f7ceee1219",
+      "username": "richardknop"
+    },
+    "service": {
+      "hostname": "richardknop.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1501667008,
+  "expire_in": 157680000,
+  "prev": "b2938c8c344489ad0f0b72a415138f55ce64322de620960cdaf7c61882f6726d",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtkmtMFFcUx3cBbaFCUeSxQZI64aHNSufO4+7M1jZUSltR6QODEi3rPO6wE2B3
+2QdP14LJIg9LlYItoBDUtviAajRGG0yhyEKhhoQKGLBACwK2hKS2VkQjnSX1U/ux
+98vNPed/fud/Tu4Rf2+Vn/otIJ2/VZ+8V913j1elFjd0F2K8WczH9IVYBlq+UKaI
+bHZDhixiegwHOKChhAQeUDhJSyTL8ISESIJFCAeCxAiIhhzJkBzERQJyIidSIkVC
+CSd5HEBCEigJ5zAtJsmmdGS1WGWTXcEyiOFYioAsYgiaAkBHEwgJHKAgCSDkBJFi
+eZqkBaXQaLZ5KhRzPGdDsbJZiSkPw7K9/9D/z74dyziFz7ACgRgB5xkciJxEswQh
+6QSEECAA6xHakNXEZSFFbZUFI2cVM0xmC+bUYkoiRxaQZ7eeYf4tihXMWQrBYjXb
+zYI5U0ka7XaL3lNrz7d4xLmIN/yDMfCySVSWqRTkIKtNNpswPVCUgl32cAGt2Ic6
+HGe0GMqzyFZkkD0KWgcZXDmeNihHQfLEhyzJCIxAUhTFsJyISzivIzgK0IBkJJoW
+EKRIghARJHAW4oIytE6AgGEICeoIKGKeybJNZkyvtLJz6QrTJqebOLvDijCnX5kX
+6aNS+6kiQtb7VJZXRzcc3LnaETvX9OwDrvDy/D6Vn2/gs8hHXweqDlWsq+8kXmmf
+C0k95WiudZb2ntn/8i+f/lXcPnwy0b/Jb9OjaVlT0t9obw10nU3y3teVdaxv4GLj
+c8NLEdtnyy/pIw8PTwyC70IW64pa0OWjNV0hmpTbF3wc1ZpvR0rWGmfP3dsQsJg9
+lx90evT6aON0f89T45flTuvqtZqUzpHgxaZZ7z+jpvPci2xAx8qLQBvXaSmshM3N
+zvdm3p6fDFNv7vhCt5DZMjTl9vrN9UgIejL6+ycnYeLAu7u/qpu6+U5Y25mxC7tr
+Zp8eoXK3VocGXzZYsfrreMbcfOV4wXrf7Q8GoTp8pmub8ddbcfu6grYNZc2+cFrj
+DWBy2sZc38iA8ZE9J3rCaJ0rrDvh/aakc/O9UWmH6hPigebx/a07xq9s8V/od00+
+rnWVD7/a63yj9OOx4rvxn32QN14cHVfw5s6q7IfqonVtQatu798VNf/aBlhVcCBl
+6UHm2VM3vJ6/5l2yuKvtm5S6SP+xm0NbRgNbFnyORr++N/7gyvVL+uOlxzSp9drw
+st5NBvAS6r573rcGdiysGTwe8HPtne8j3BNDEy73QE3oD3Wft90ZjJkcTPOp6+6u
+uuo4gZu0S8EriOTwHSM9Kq7iyh9PEhpuZK7JiQlIqnD/GLanKbQia+ZA33R168YX
+W1ZNtV91SuU/tecnxlwrKnMwc639Zcm5qs2Ghofu+5fK/gY=
+=tB/3
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/richardknop
+
+==================================================================
+
